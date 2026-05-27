@@ -1,11 +1,11 @@
 {
 	"version": 3,
 	"file": "print.css",
-	"sourceRoot": "/Users/niccolom/Dropbox (University of Michigan)/mysite/mysite_umdearborn_2025",
+	"sourceRoot": "/Users/niccolom/Dropbox (University of Michigan)/mysite/mysite_github2026",
 	"sources": [
 		"themes/triple-hyde/assets/scss/print.scss",
-		"../../../../Dropbox (University of Michigan)/mysite/mysite_umdearborn_2025/themes/triple-hyde/assets/scss/triple-hyde/_variables.scss",
-		"../../../../Dropbox (University of Michigan)/mysite/mysite_umdearborn_2025/themes/triple-hyde/assets/scss/triple-hyde/_print.scss"
+		"../../../../Dropbox (University of Michigan)/mysite/mysite_github2026/themes/triple-hyde/assets/scss/triple-hyde/_variables.scss",
+		"../../../../Dropbox (University of Michigan)/mysite/mysite_github2026/themes/triple-hyde/assets/scss/triple-hyde/_print.scss"
 	],
 	"sourcesContent": [
 		"@import \"triple-hyde/variables\";\n@import 'triple-hyde/print';\n",
