@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://www-personal.umd.umich.edu/~niccolom/code/</loc>
+    <lastmod>2015-04-01T18:49:17-04:00</lastmod>
+  </url><url>
+    <loc>http://www-personal.umd.umich.edu/~niccolom/</loc>
+    <lastmod>2015-04-01T18:49:17-04:00</lastmod>
+  </url><url>
+    <loc>http://www-personal.umd.umich.edu/~niccolom/students/</loc>
+    <lastmod>2015-04-01T18:49:17-04:00</lastmod>
+  </url><url>
+    <loc>http://www-personal.umd.umich.edu/~niccolom/teaching/</loc>
+    <lastmod>2015-04-01T18:49:17-04:00</lastmod>
+  </url><url>
+    <loc>http://www-personal.umd.umich.edu/~niccolom/research/</loc>
+    <lastmod>2015-04-01T14:55:41-04:00</lastmod>
+  </url><url>
+    <loc>http://www-personal.umd.umich.edu/~niccolom/categories/</loc>
+  </url><url>
+    <loc>http://www-personal.umd.umich.edu/~niccolom/tags/</loc>
+  </url>
+</urlset>
